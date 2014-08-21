@@ -11,6 +11,6 @@ deploy:
   provider: heroku
   api_key:
     secure: CqBuRugNu/8SJuxso69xBHG3/eMCd3HqQ3SOPOZACpYfegX1P/7EeVnEXPWBBT/7JeucC2HCe0PKiZDOHie1Y1D3nXBvIiktITdyy35ruPa908YSDu1YOXhdUiZlFuLSGQdTL5L1Xi9dNQfxzkaIxkOmZYZI1dVFBGwlTDfZyjE=
-  app: django_travis_chef-solo
+  app: django-travis-chef-solo
   on:
     repo: sharma-mohit/django_travis_chef-solo
